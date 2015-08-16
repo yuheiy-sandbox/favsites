@@ -1,0 +1,6 @@
+.DS_Store
+.sass-cache/
+_temp/
+
+css/style.css
+css/style.css.map
